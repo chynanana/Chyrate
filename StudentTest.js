@@ -43,6 +43,8 @@ function addNewStudentFromForm() {
     let name = $("#NewStudentName").val();
     let address = $("#NewStudentAddress").val();
 
+    if(name.length == 0 || address.length == 0) 
+
     addNewStudent(id, name, address);
     window.alert('Added the new student: ' + name);
 
