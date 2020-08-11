@@ -1,0 +1,35 @@
+{
+name: "Jordan Peele",
+bio: "Jordan Haworth Peele (born February 21, 1979) is an American actor, comedian, writer, director, and producer. He is best known for his television and film work in the comedy and horror genres.Peele's breakout role came in 2003 when he was hired as a cast member on the Fox sketch comedy series Mad TV, where he spent five seasons, leaving the show in 2008. In the following years, he and his frequent Mad TV collaborator, Keegan-Michael Key, created and starred in their own Comedy Central sketch comedy series Key & Peele (2012–2015). In 2014, they appeared together as FBI agents in the first season of FX's anthology series Fargo.[3] Peele co-created the TBS comedy series The Last O.G. (2018–present) and the YouTube Premium comedy series Weird City (2019). He has also served as the host and producer of the CBS All Access revival of the anthology series The Twilight Zone (2019–present). Peele and Key wrote, produced, and starred in Keanu (2016) and Peele has voice acted in Storks (2016), Captain Underpants: The First Epic Movie (2017) and Toy Story 4 (2019). His 2017 directorial debut, the horror film Get Out, was a critical and box office success.[4] He received numerous accolades, including the Academy Award for Best Original Screenplay, along with nominations for Best Picture and Best Director. He received another Academy Award nomination for Best Picture for producing Spike Lee's BlacKkKlansman (2018). He directed, wrote, and produced the acclaimed horror film Us (2019).",
+movie: "Get Out" ,
+img: "Images/Peele.jpg"
+}
+
+{
+"name": "Ryan Coogler",
+"bio": "Ryan Kyle Coogler (born May 23, 1986) is an American film director, producer, and screenwriter. His first feature film, Fruitvale Station (2013), won the top audience and grand jury awards in the U.S. dramatic competition at the 2013 Sundance Film Festival. He has since co-written and directed the seventh film in the Rocky series, Creed (2015), and the Marvel film Black Panther (2018), the latter of which broke numerous box office records and became the highest-grossing film of all time by a black director. Coogler's films have received significant critical acclaim and commercial success. In 2013, he was included on Time's list of the 30 people under 30 who are changing the world. His work has been hailed by critics for centering on often overlooked cultures and characters—most notably black people. He frequently collaborates with actor Michael B. Jordan, who has appeared in all of his feature films, as well as composer Ludwig Göransson, who has scored all of his films. In 2018, he was named the runner-up of Time's Person of the Year.,
+"movie": "Black Panther" ,
+"img": "Images/Ryan.jpg"
+}
+
+
+{
+"name": "Spike Lee",
+"bio": "Shelton Jackson Spike Lee (born March 20, 1957) is an American film director, producer, screenwriter, actor, and professor. His production company, 40 Acres and a Mule Filmworks, has produced more than 35 films since 1983. He made his directorial debut with She's Gotta Have It (1986). He has since written and directed such films as Do the Right Thing (1989), Mo' Better Blues (1990), Jungle Fever (1991), Malcolm X (1992), He Got Game (1998), 25th Hour (2002), Inside Man (2006), Chi-Raq (2015), BlacKkKlansman (2018) and Da 5 Bloods (2020). Lee also acted in ten of his films. Lee's work has continually explored race relations, colorism in the black community, the role of media in contemporary life, urban crime and poverty, and other political issues. He has won numerous accolades for his work, including an Academy Award for Best Adapted Screenplay, a Student Academy Award, a BAFTA Award for Best Adapted Screenplay, two Emmy Awards, two Peabody Awards, and the Cannes Grand Prix. He has also received an Academy Honorary Award, an Honorary BAFTA Award, an Honorary César, and the Dorothy and Lillian Gish Prize. Lee's films Do the Right Thing, Malcolm X, 4 Little Girls and She's Gotta Have It were each selected by the Library of Congress for preservation in the National Film Registry for being culturally, historically, or aesthetically significant.",
+"movie": "BlacKkKlansman" ,
+"img": "Images/Spike.jpg"
+}
+
+{
+"name": "Taika Waititi",
+"bio": "Taika David Cohen ONZM (born 16 August 1975), known professionally as Taika Waititi /ˈtaɪkə waɪˈtiːti/ (About this soundlisten), is a New Zealand film and television director, producer, screenwriter, actor, and comedian. He is the recipient of an Academy Award as well as two further nominations. He has also received two Primetime Emmy Award nominations. His feature films Boy (2010) and Hunt for the Wilderpeople (2016) have each been the top-grossing New Zealand film, with the latter still holding that title as of April 2020. Waititi co-directed and starred in the horror comedy film What We Do in the Shadows (2014) with Jemaine Clement, which was adapted into a television series of the same name (2019–present). The series has been nominated for the Primetime Emmy Award for Outstanding Comedy Series. His most recent directing credits include the superhero film Thor: Ragnarok (2017) and the black comedy film Jojo Rabbit (2019), the latter of which he also wrote and starred in as Adolf Hitler. Jojo Rabbit was nominated for two Academy Awards, Best Picture and Best Adapted Screenplay, winning the latter. In addition to directing an episode of the web television series The Mandalorian (2019–present), Waititi also voices the character IG-11, garnering a Primetime Emmy Award for Outstanding Character Voice-Over Performance nomination for his work.",
+"movie": "JoJo Rabbit" ,
+"img": "Images/Taika.jpg"
+}
+
+{
+"name": "Jemaine Clement",
+"bio": "Jemaine Clement (born 10 January 1974) is a New Zealand actor, musician, comedian, singer, director and writer. With Bret McKenzie, as the Grammy Award-winning comedy duo Flight of the Conchords, he has released several albums and created comedy series for both the BBC and HBO. For the comedy series, he received six Primetime Emmy nominations.He has had featured parts in films such as Men in Black 3 (2012), People Places Things (2015) and Humor Me (2017) and has done voice-work for Despicable Me (2010), Rio (2011), Rio 2 (2014), Moana (2016) and The Lego Batman Movie (2017). In 2014, he made his directorial debut with What We Do in the Shadows, which he also co-wrote, co-directed and co-starred in with Taika Waititi.",
+"movie": "What We Do In The Shadows",
+"img": "Images/Clement.png"
+}

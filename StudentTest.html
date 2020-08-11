@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="alternate" type="application/rss+xml" href="https://www.cinemablend.com/rss/topic/previews/movies" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="StudentTest.js"></script>
+
+</head>
+<body onload="setupOnLoad();">
+
+    <h1>List of all students</h1>
+    <table class="table" id="StudentList">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+
+    <h1>Add a new student</h1>
+    <form id="NewStudentForm">
+        ID: <input type="text" id="NewStudentID" value="" maxlength="5" /><br />
+        Name: <input type="text" id="NewStudentName" value="" maxlength="20" /><br />
+        Address: <input type="text" id="NewStudentAddress" value="" maxlength="20" /><br />
+        <button onclick="return addNewStudentFromForm();">Insert Me!</button>
+        <button onclick="return deleteStudentFromForm();">Remove</button>
+    </form>
+
+</body>

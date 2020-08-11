@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" crossorigin="anonymous">
+  <link rel="alternate" type="application/rss+xml" href="https://www.cinemablend.com/rss/topic/previews/movies" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
+  <script src="Index.js"></script>
+</head>
+<body onload="setupHomepageOnload();">
+
+  <nav class="navbar navbar-expand-sm bg-light navbar-light">
+    <!-- Brand -->
+    <a class="navbar-brand" href="Index.html"> 
+        <img src="images/logo3.png" alt="Logo" style="widows: 80px;px;" href="Index.html">
+    </a>
+  
+    <!-- Links -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="Reviews.html">Reviews</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="Direct.html">Directors</a>
+      </li>
+  </nav> 
+   
+  <span class="d-block p-2 bg-dark text-white">
+  <h1>Our top movies for this week</h1>
+  </span>
+  <div class="d-flex flex-row">
+    <div class ="p-2">
+        <img src="" class="img-fluid" alt="Loading..." height="100" id="Poster0" />
+    </div>
+    <div class="p-2">
+        <img src="" class="img-fluid" alt="Loading..." height="100" id="Poster1" />
+    </div>
+    <div class="p-2">
+      <img src="" class="img-fluid" alt="Loading..." height="100" id="Poster2" />
+    </div>
+    <div class="p-2">
+      <img src="" class="img-fluid" alt="Loading..." height="100" id="Poster3" />
+    </div>
+    <div class="p-2">
+      <img src="" class="img-fluid" alt="Loading..." height="100" id="Poster4" />
+    </div>
+  </div>
+
+  <div class="trailers">
+    <div class="d-flex flex-row">
+      <div class="d-flex align-item-start">
+        <div class="p-2">
+          <iframe id="movieTrailer" width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="p-2 movieDescArea">
+        <h2 id="movieTitle">Loading...</h2>
+        <p id="movieDesc">
+          Description loading...
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!--
+  <div class="trailers">
+    <div class="d-flex flex-row flex-wrap justify-content-between">
+      <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/hNCmb-4oXJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="trailer0"></iframe>
+      </div>
+      <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DzfpyUB60YY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="trailer1"></iframe>
+      </div>
+      <div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/fQNZhs0QKq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="trailer2"></iframe>
+      </div>
+      <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xjDjIWPwcPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="trailer3"></iframe>
+      </div>
+      <div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/IAZEWtyhpes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="trailer4"></iframe>
+      </div>
+    </div>
+  </div>
+  -->
+
+  <div class="shadow p-3 mb-5 bg-black rounded commentForm">
+    <form id="NewCommentForm">
+      <div>
+        Name: <input type="text" id="NewUserName" value="" maxlength="255" class="commentFormText" /><br />
+        <textarea name="comments" id="NewComment" class="commentFormText">Hey... say something</textarea>
+      </div>
+      <button type="button" class="btn btn-dark">
+        <input type="submit"  onclick="return addNewCommentFromForm();">
+      </button>
+    </form>
+  </div> 
+
+
+  <div class="commentTable">
+    <h1>Comments</h1>
+    <table class="table table-striped table-dark" id="CommentList">
+        <thead>
+            <tr>
+              <!-- <th>Comment</th>
+              <th>Name</th>  -->
+            </tr>
+        </thead>
+        <tbody>
+  
+        </tbody>
+    </table>
+  </div>
+
+</body>
+</html>
