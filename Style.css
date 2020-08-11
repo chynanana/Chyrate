@@ -48,3 +48,32 @@ body{
   background-color: #323633;
   color: #ffffff;
 }
+
+.reviewText{
+  color:#ffffff;
+}
+
+.chyrateOuter {
+  color: #ffffff;
+  font-size: 14pt;
+  text-align: center;
+}
+
+.chyrate {
+  color: #ffffff;
+  background-color:#0d0233;
+  font-size: 30pt;
+  padding: 30px;
+  border: 2px solid#d1ae00;
+}
+
+.reviewTitle{
+  color:#ffffff;
+  font-size: 50pt;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.releaseDate{
+  color:#ffffff
+  
+}
