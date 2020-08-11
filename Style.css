@@ -1,3 +1,7 @@
+$enable-shadows : true;
+
+
+
 .box {
     display: flex;
     align-items: flex-start;
@@ -10,3 +14,37 @@
     color: red;
 }
 @media (min-width: 992px) and (max-width: 1199.98px) { * }
+
+.director-img-border {
+  padding: 5px;
+}
+
+body{
+  background-color: #21211f !important;
+  text: white !important;
+}
+
+#newCommentForm{
+  background-color: black !important;
+}
+
+.movieDescArea {
+  color: #ffffff;
+}
+
+.commentForm {
+  color: #ffffff;
+}
+
+.commentTable{
+  color: #ffffff;
+}
+
+.directorText{
+  color: #ffffff;
+}
+
+.commentFormText{
+  background-color: #323633;
+  color: #ffffff;
+}

@@ -1,5 +1,7 @@
 const REST_ADDR = "http://localhost:9001/";
 
+//Comment control
+
 function getAllComments() {
     let request = new XMLHttpRequest();
     request.open('GET', REST_ADDR + "all", true);    
@@ -80,3 +82,51 @@ function deleteCommentFromForm(){
 function setupOnLoad() {
     getAllComments();
 }
+
+//Youtube control
+let homepage_data = undefined;
+
+function getHomepageData() {
+    let request = new XMLHttpRequest();
+    request.open('GET', REST_ADDR + "allHome", true);    
+
+    console.log('Request sent');
+
+    request.onload = function() {
+        console.log('In onload handler');
+            
+        data = JSON.parse(this.response);
+        console.log(data);
+
+        homepage_data = data;
+        poster_id = 0;
+
+        // Update the homepage images
+        data.forEach((item) => {
+            id_tag = '#Poster' + poster_id;  // #Poster0, #Poster1, etc.
+            poster_img = $(id_tag);
+            poster_img.attr('src', item.image);
+            poster_img.attr('alt', item.altText);
+            poster_img.attr('title', item.altText);
+            poster_img.click(function() { updateHomeData(item); });
+            poster_id++;
+        });
+    }
+
+    request.send();
+}
+
+function updateHomeData(item) {
+    $('#movieTrailer').attr('src', 'https://www.youtube.com/embed/' + item.video);
+    $('#movieTitle').html(item.title);
+    $('#movieDesc').html(item.description);
+}
+
+function setupHomepageOnload() {
+    getHomepageData();
+    getAllComments();
+
+}
+
+
+//Image control
