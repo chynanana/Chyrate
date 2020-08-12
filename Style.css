@@ -77,3 +77,28 @@ body{
   color:#ffffff
   
 }
+
+.poster {
+  padding: 5px;
+  border-bottom: 2px solid transparent;
+}
+
+.poster:hover {
+  border-color: #ffffff;
+}
+
+.director-movie {
+  color:#ffe499;
+  font-size: 15pt;
+  
+ 
+
+}
+.director-movie:hover {
+  border-color: #ffffff;
+}
+
+.director-name{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:#d5c9ff;
+}
