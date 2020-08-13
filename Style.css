@@ -47,7 +47,11 @@ body{
 .commentFormText{
   background-color: #323633;
   color: #ffffff;
+  border: #21211f;
+  margin: 10px;
+  padding: 10px;
 }
+
 
 .reviewText{
   color:#ffffff;
@@ -102,3 +106,4 @@ body{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color:#d5c9ff;
 }
+
