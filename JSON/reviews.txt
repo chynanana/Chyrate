@@ -3,38 +3,38 @@
 {
 "Title":"Get Out",
 "Chyrate":6,
-"Review":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis condimentum magna. Nulla semper bibendum arcu, ut feugiat dolor rutrum at. Praesent dictum mi quis turpis commodo egestas. Vestibulum eu tempor dolor. Duis eget dolor porta sem pellentesque molestie. Donec eu rutrum diam, sed hendrerit neque. Mauris gravida erat mauris, ut iaculis mauris viverra nec. Donec finibus magna in semper tempor. Quisque scelerisque a lorem vel auctor.Proin sem purus, scelerisque non tempor sed, lobortis at augue. Nam consectetur vel urna id eleifend. Aliquam sodales at libero faucibus sollicitudin. Ut id libero mauris. Donec dictum, nisi condimentum congue sollicitudin, nisl purus feugiat lectus, ac dapibus nibh arcu et tortor. Duis hendrerit, lorem vitae porttitor suscipit, elit neque lacinia enim, in ultricies nisi massa non nulla. Quisque non metus leo. Ut feugiat mauris id arcu mollis, facilisis commodo diam vehicula. Donec euismod in ex vitae placerat. Donec nec aliquet leo. Ut ornare velit a justo aliquam, consectetur sodales eros vestibulum.",
-"Release":"February 24, 2017",
+"Review":"Where do I even begin! After watching the trailer I knew that I had to see Get Out and I was not disappointed. Peele is well known for his comedy, but can he do horror? The answer to that question is an astounding yes! I was hooked from the cold open and it only got better from there. Peele’s use of mise en scene allows the eagle eyed and second time viewers to get the twist before the big reveal. Daniel Kaluuya the star of one of my favourite Black Mirror episodes ‘Fifteen Million Merits’ is superb in his role and brings real feeling to his character. Kalluya plays the main character who is visiting his white girlfriend's family for the first time. The movie on a whole is an impressive commentary on cultural appropriation. We see these affluent white characters who see Black people as being physically superior. There are very few black people in the community and these affluent characters appear in awe of Kaluuya’s presence. As the film plays out we see cracks in the friendly facade and Kalluya begins to doubt the family intentions and whether he is truly safe at their home. I was thoroughly impressed with this film; it had me on edge throughout and I did not see the ending coming at all! I recommend everyone watch this film at least once as not only is the plot interesting and gripping but it shines a mirror on the audience and truly makes you think. I hope that Peele continues to make such fantastic horror movies and I can hardly wait for the next one!",
+"Release":"17 March 2017,
 "image":"getout.jpg"
 }
 {
-"title": "Get Out",
+"title": "BlacKKKlansman",
 "chyrate": 6,
 "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis condimentum magna. Nulla semper bibendum arcu, ut feugiat dolor rutrum at. Praesent dictum mi quis turpis commodo egestas. Vestibulum eu tempor dolor. Duis eget dolor porta sem pellentesque molestie. Donec eu rutrum diam, sed hendrerit neque. Mauris gravida erat mauris, ut iaculis mauris viverra nec. Donec finibus magna in semper tempor. Quisque scelerisque a lorem vel auctor.Proin sem purus, scelerisque non tempor sed, lobortis at augue. Nam consectetur vel urna id eleifend. Aliquam sodales at libero faucibus sollicitudin. Ut id libero mauris. Donec dictum, nisi condimentum congue sollicitudin, nisl purus feugiat lectus, ac dapibus nibh arcu et tortor. Duis hendrerit, lorem vitae porttitor suscipit, elit neque lacinia enim, in ultricies nisi massa non nulla. Quisque non metus leo. Ut feugiat mauris id arcu mollis, facilisis commodo diam vehicula. Donec euismod in ex vitae placerat. Donec nec aliquet leo. Ut ornare velit a justo aliquam, consectetur sodales eros vestibulum.",
-"releaseDate": "February 24, 2017",
-"image": "getout.jpg"
+"releaseDate": "24 August 2018",
+"image": "kkk.jpg"
 }
 
 {
-"title": "movie",
+"title": "US",
 "chyrate": 6,
-"review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis condimentum magna. Nulla semper bibendum arcu, ut feugiat dolor rutrum at. Praesent dictum mi quis turpis commodo egestas. Vestibulum eu tempor dolor. Duis eget dolor porta sem pellentesque molestie. Donec eu rutrum diam, sed hendrerit neque. Mauris gravida erat mauris, ut iaculis mauris viverra nec. Donec finibus magna in semper tempor. Quisque scelerisque a lorem vel auctor.Proin sem purus, scelerisque non tempor sed, lobortis at augue. Nam consectetur vel urna id eleifend. Aliquam sodales at libero faucibus sollicitudin. Ut id libero mauris. Donec dictum, nisi condimentum congue sollicitudin, nisl purus feugiat lectus, ac dapibus nibh arcu et tortor. Duis hendrerit, lorem vitae porttitor suscipit, elit neque lacinia enim, in ultricies nisi massa non nulla. Quisque non metus leo. Ut feugiat mauris id arcu mollis, facilisis commodo diam vehicula. Donec euismod in ex vitae placerat. Donec nec aliquet leo. Ut ornare velit a justo aliquam, consectetur sodales eros vestibulum.",
-"releaseDate": "10/09/1997",
-"image":"maggie.jpg"
+"review": "Well that didn’t take long, I feel like only yesterday I was writing the review for Peele’s first movie ‘Get Out’. Thankfully it was not and we now have another impressive film from the mind of Jordan Peele! As I said in my ‘Get Out’ review I had the intention to see the next horror that Peele released and for that reason I didn’t even watch the trailer before dragging the boyfriend to see it. Yet again Peele did not disappoint, We get another scary cold open that sets the scene for the film beautifully. We follow a family going on a vacation to where one of the main characters played excellently by the incredibly talented Lupita Nyong'o. There is not much that I can say about this film without revealing the plot and that would be criminal. The plot unfolds and gets more unsettling with every scene. Peele uses a range of techniques to point things out to the audience all of which I did not see until my second watch. Peele gives us another horror that makes the viewer think and makes a point while still entertaining and scaring you. There is debate on what this movie was trying to say and this being ambiguous is to me one of the things that I love about it. I have said it once and now I shall say it again, I cannot wait for Peele’s next film and I hope that they keep getting better!",
+"releaseDate": "22 March 2019 ",
+"image":"us.jpg"
 }
 
 {
 "title":"What we do in the Shadows",
 "chyrate":6,
-"review":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis condimentum magna. Nulla semper bibendum arcu, ut feugiat dolor rutrum at. Praesent dictum mi quis turpis commodo egestas. Vestibulum eu tempor dolor. Duis eget dolor porta sem pellentesque molestie. Donec eu rutrum diam, sed hendrerit neque. Mauris gravida erat mauris, ut iaculis mauris viverra nec. Donec finibus magna in semper tempor. Quisque scelerisque a lorem vel auctor.Proin sem purus, scelerisque non tempor sed, lobortis at augue. Nam consectetur vel urna id eleifend. Aliquam sodales at libero faucibus sollicitudin. Ut id libero mauris. Donec dictum, nisi condimentum congue sollicitudin, nisl purus feugiat lectus, ac dapibus nibh arcu et tortor. Duis hendrerit, lorem vitae porttitor suscipit, elit neque lacinia enim, in ultricies nisi massa non nulla. Quisque non metus leo. Ut feugiat mauris id arcu mollis, facilisis commodo diam vehicula. Donec euismod in ex vitae placerat. Donec nec aliquet leo. Ut ornare velit a justo aliquam, consectetur sodales eros vestibulum.",
-"releaseDate":"June 19, 2014 ",
+"review":"There are now oh so many mockumentary films around now and I thought that I had already grown tired of this style; That was until I watched this film. A documentary based around three vampires living together in the present day. This movie didn’t have a particularly high budget and it is truly a testament of how much you can do with simply a great plot. The vampires are seen living their day to day lives just like any other person, but they’re vampires and that is the fun of the film. The film leans into its own absurdity making for a refreshing and very funny film. There is not much CG in this movie giving it the more edgy and realistic look of a ‘real’ Mockumentary. We get a great mix of characters in this ensemble cast who all leave a lasting impression. The main characters have amazing chemistry that makes the film even more enjoyable. I only heard about this film after its theatrical release which was released over 6 months after its Sundance debut and I think it is certainly a must see movie. The humour is very dry which I enjoyed thoroughly and is a nice break from the over the top American humour that is oh so common nowadays.",
+"releaseDate":"4 September 2014 ",
 "image":"shadows.jpg"
 }
 
 {
-"title": null,
-"chyrate": 0,
-"review": null,
-"releaseDate": null,
-"image": "shadows.jpg"
+"title": "Black Panther",
+"chyrate": 3,
+"review":"Well I think that we all saw this review coming and I highly doubt you need me to put this movie on your radar, but here I go! I was among the thousands of thousands that flocked to see this Marvel movie on its release day. The cinema was bustling especially for my small Yorkshire village cinema that I am so used to having to myself. As to expect with a Marvel movie we have CG action from the very beginning. This movie has seen a lot of praise for its mainly Black cast. I didn’t let that fact affect my review.  I personally enjoy Marvel movies, I grew up with them and they have only got bigger since Disney purchased Marvel. Black Panther was no exception to this and I thoroughly enjoyed watching the film, it had me captivated from the very beginning. On a second viewing like most Marvel movies I didn’t have that initial excitement that I had the first time, meaning I still enjoy the film but the rose tinted glasses I was wearing on my first viewing where not on. On a whole the film did a good job and it did very well at the Box office but it is still just your average predictable Marvel film. I enjoyed the characters in this film and I hope to see the actors in future Marvel movies like the rumoured Avengers: Endgame. But that is a review for another day!",
+"releaseDate": "12 February 2018" ,
+"image": "panther.jpg"
 }
